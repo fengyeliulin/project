@@ -6,5 +6,7 @@ export default {
   //首页导航
   homeshoplist: [],
   //推荐商品列表
-  recommendshoplist: []
+  recommendshoplist: [],
+  //搜索分类商品列表
+  searchgoods:[]
 }
